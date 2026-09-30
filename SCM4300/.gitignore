@@ -1,4 +1,4 @@
 *.zip
-csv_pus/
+data/*.csv
 main.duckdb
 output.csv
